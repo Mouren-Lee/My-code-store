@@ -414,7 +414,7 @@ void Init_Ctrl_Par(void)
     USART1_SetIO(USART_BuShu,0);
 	//-------------------------
 	Typedef_Init();	
-		
+	//1111111111111111
 		
 }
 
